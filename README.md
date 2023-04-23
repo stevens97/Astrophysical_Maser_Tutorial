@@ -2,7 +2,6 @@
 
 This Jupyter Notebook provides a tutorial of how Astrophysical Maser Data (observed with the HartRAO telescope) can be reduced, processed and visualised.
 
-----------------------------------------
 ## What are Astrophyiscal Masers?
 ----------------------------------------
 
@@ -12,7 +11,6 @@ In astrophysical environments, masers are commonly found in regions of intense r
 
 Some of the most commonly observed astrophysical masers include water vapor masers, which are found in regions of star formation and in the envelopes of evolved stars, and methanol masers, which are associated with massive star-forming regions. Other types of masers include those produced by molecules such as OH, SiO, and HCN.
 
-------------------------------------------------------------------------------------------------------------------------
 ## What is the HartRAO radio telescope? Why is it a good instrument for observing Masers?
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -24,7 +22,6 @@ The receiver is typically tuned to a specific frequency corresponding to the fre
 
 HartRAO is particularly well-suited for studying masers because it has a large dish with a diameter of 26 meters, which provides a high sensitivity to weak radio signals, and it is located in a relatively radio-quiet area, which reduces interference from terrestrial sources.
 
-------------------------------------------------------------------------------------------------------------------------
 ## How does this program work?
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -42,7 +39,6 @@ Technique #3: Baseline subtraction
 
 The script than finally averages out the observations to obtain a single spectra for the observed Astrophysical maser.
 
-----------------------------------------
 ## Prerequisites for using this program:
 ----------------------------------------
 
@@ -52,7 +48,6 @@ The script than finally averages out the observations to obtain a single spectra
 
 **NOTE**: Original data is not provided due to copyright/privacy.
 
-----------------------------------------
 ## References:
 ----------------------------------------
 
