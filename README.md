@@ -2,9 +2,9 @@
 
 This Jupyter Notebook provides a tutorial of how Astrophysical Maser Data (observed with the HartRAO telescope) can be reduced, processed and visualised.
 
-========================================
-What are Astrophyiscal Masers?
-========================================
+----------------------------------------
+## What are Astrophyiscal Masers?
+----------------------------------------
 
 Astrophysical masers are natural sources of microwave and radio-frequency radiation that emit intense, coherent beams of light. They are produced by a process called stimulated emission, in which molecules in a gas are excited by collisions or radiation and then emit photons of the same energy and frequency as the incident radiation.
 
@@ -12,9 +12,9 @@ In astrophysical environments, masers are commonly found in regions of intense r
 
 Some of the most commonly observed astrophysical masers include water vapor masers, which are found in regions of star formation and in the envelopes of evolved stars, and methanol masers, which are associated with massive star-forming regions. Other types of masers include those produced by molecules such as OH, SiO, and HCN.
 
-=======================================================================================
-What is the HartRAO radio telescope? Why is it a good instrument for observing Masers?
-=======================================================================================
+------------------------------------------------------------------------------------------------------------------------
+## What is the HartRAO radio telescope? Why is it a good instrument for observing Masers?
+------------------------------------------------------------------------------------------------------------------------
 
 The HartRAO (Hartebeesthoek Radio Astronomy Observatory) telescope is a radio telescope located in South Africa that is used for a variety of astronomical observations, including the study of astrophysical masers.
 
@@ -24,9 +24,9 @@ The receiver is typically tuned to a specific frequency corresponding to the fre
 
 HartRAO is particularly well-suited for studying masers because it has a large dish with a diameter of 26 meters, which provides a high sensitivity to weak radio signals, and it is located in a relatively radio-quiet area, which reduces interference from terrestrial sources.
 
-=======================================================================================
-How does this program work?
-=======================================================================================
+------------------------------------------------------------------------------------------------------------------------
+## How does this program work?
+------------------------------------------------------------------------------------------------------------------------
 
 This program takes 4 observations of the same Astrophysical Maser,
 (1) Left-circularly polarized observation #1
@@ -42,8 +42,9 @@ Technique #3: Baseline subtraction
 
 The script than finally averages out the observations to obtain a single spectra for the observed Astrophysical maser.
 
-Prerequisites for using this program:
-========================================
+----------------------------------------
+## Prerequisites for using this program:
+----------------------------------------
 
 - astropy v 3.2.1
 - matplotlib v 3.0.3
@@ -51,8 +52,9 @@ Prerequisites for using this program:
 
 **NOTE**: Original data is not provided due to copyright/privacy.
 
-References:
-========================================
+----------------------------------------
+## References:
+----------------------------------------
 
 - Burke, B.F., Graham-Smith, F. and Wilkinson, P.N., 2019. An introduction to radio astronomy. Cambridge University Press.
 - O'Neil, K., 2002. Single dish calibration techniques at radio wavelengths. arXiv preprint astro-ph/0203001.
