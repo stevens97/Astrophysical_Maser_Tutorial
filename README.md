@@ -1,4 +1,4 @@
-# Astrophysical Maser Data Reduction Tutorial
+# HartRAO Astrophysical Maser Tutorial
 
 This Jupyter Notebook provides a tutorial of how Astrophysical Maser Data (observed with the HartRAO telescope) can be reduced, processed and visualised.
 
