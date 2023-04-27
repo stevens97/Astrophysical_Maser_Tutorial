@@ -43,6 +43,7 @@ The script than finally averages out the observations to obtain a single spectra
 - seaborn v 0.9.0
 
 **NOTE**: Original data is not provided due to copyright/privacy.
+This code is for educational purposes only.
 
 ## References:
 
