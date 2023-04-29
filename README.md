@@ -5,7 +5,7 @@
 Photo credit: http://www.hartrao.ac.za/gallery/ltg021023c.jpg
 ---------------------------------------------------------------------------------------------------------------
 
-<img src="https://mcdonaldobservatory.org/sites/default/files/images/news/gallery/salt.startrails.jpg" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/stevens97/HartRAO_Astrophysical_Maser_Tutorial/main/Sample.png" width="50%" height="50%">
 
 This Jupyter Notebook provides a tutorial of how Astrophysical Maser Data (observed with the HartRAO telescope) can be reduced, processed and visualised.
 
