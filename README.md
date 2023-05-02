@@ -13,13 +13,13 @@ This Jupyter Notebook provides a tutorial of how Astrophysical Maser Data (obser
 
 Astrophysical masers are natural sources of microwave and radio-frequency radiation that emit intense, coherent beams of light. They are produced by a process called stimulated emission, in which molecules in a gas are excited by collisions or radiation and then emit photons of the same energy and frequency as the incident radiation.
 
-In astrophysical environments, masers are commonly found in regions of intense radiation, such as around young stars, evolved stars, and active galactic nuclei. They can provide important information about the physical conditions and dynamics of these regions, including the temperature, density, and velocity of the gas and the magnetic fields that may be present.
+In astrophysical environments, masers are commonly found in regions of intense radiation, such as around young stars, evolved stars, and active galactic nuclei (AGN). They can provide important information about the physical conditions and dynamics of these regions, including the temperature, density, and velocity of the gas and the magnetic fields that may be present.
 
 Some of the most commonly observed astrophysical masers include water vapor masers, which are found in regions of star formation and in the envelopes of evolved stars, and methanol masers, which are associated with massive star-forming regions. Other types of masers include those produced by molecules such as OH, SiO, and HCN.
 
 ## What is the HartRAO radio telescope? Why is it a good instrument for observing Masers?
 
-The HartRAO (Hartebeesthoek Radio Astronomy Observatory) telescope is a radio telescope located in South Africa that is used for a variety of astronomical observations, including the study of astrophysical masers.
+The HartRAO (Hartebeesthoek Radio Astronomy Observatory) telescope is a single-dish radio telescope located in South Africa that is used for a variety of astronomical observations, including the study of astrophysical masers.
 
 To gather data about masers, the telescope is typically pointed at a specific region of the sky where the masers are expected to be found. The telescope collects the radio-frequency radiation emitted by the masers and focuses it onto a receiver, which converts the radiation into an electrical signal that can be analyzed by astronomers.
 
