@@ -3,6 +3,7 @@
 
 <img src="http://www.hartrao.ac.za/gallery/hartrao_thomas_abbott_4229_HDR.jpg" width="50%" height="50%">
 Photo credit: http://www.hartrao.ac.za/gallery/hartrao_thomas_abbott_4229_HDR.jpg
+
 ---------------------------------------------------------------------------------------------------------------
 
 <img src="https://raw.githubusercontent.com/stevens97/HartRAO_Astrophysical_Maser_Tutorial/main/Sample.png" width="50%" height="50%">
