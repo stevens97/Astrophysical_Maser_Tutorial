@@ -6,8 +6,6 @@ Photo credit: http://www.hartrao.ac.za/gallery/hartrao_thomas_abbott_4229_HDR.jp
 
 ---------------------------------------------------------------------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/stevens97/HartRAO_Astrophysical_Maser_Tutorial/main/Sample.png" width="50%" height="50%">
-
 This Jupyter Notebook provides a tutorial of how Astrophysical Maser Data (observed with the HartRAO telescope) can be reduced, processed and visualised.
 
 ## What are Astrophyiscal Masers?
